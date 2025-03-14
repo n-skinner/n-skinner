@@ -1,4 +1,6 @@
-# Hi there 👋, my name is Nick.
+# Hi there 👋,  
+I'm Nick.  
+  
 I'm a Geospatial Developer with a focus on data engineering and analysis for the Community Development, Transportation, and Utility sectors.
 
 <h3 align="left">Languages and Tools:</h3>
